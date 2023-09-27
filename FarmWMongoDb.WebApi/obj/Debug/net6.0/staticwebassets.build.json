@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Cakkp6B89tO/e4eyOTedue1i26/mC3RQuWMisKaydhM=",
+  "Source": "FarmWMongoDb.WebApi",
+  "BasePath": "_content/FarmWMongoDb.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
