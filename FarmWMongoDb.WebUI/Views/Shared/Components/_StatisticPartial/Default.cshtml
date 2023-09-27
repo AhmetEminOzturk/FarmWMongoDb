@@ -1,0 +1,46 @@
+﻿@model List<DisplayStatisticResponse>
+
+@foreach (var item in Model)
+{
+    <section class="w3l-stats-main py-5" id="stats">
+    <div class="container py-lg-4">
+        <div class="row stats-con">
+            <div class="col-lg-6 stats-content-left pe-lg-5">
+                <div class="stats_info counter_grid1 text-left">
+                    <div class="icon stat-icon">
+                        <span class="@item.Icon1"></span>
+                            <p class="counter">@item.Count1</p>
+                    </div>
+                    <div class="stat-icon-des text-left">
+
+                        <h3 class="title-w3l">
+
+                                @item.Title1
+                        </h3>
+                        <p class="para-stat">
+                                @item.Description1
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 stats-content-left ps-lg-5 mt-lg-0 mt-md-5 mt-4">
+                <div class="stats_info counter_grid1 text-left">
+                    <div class="icon stat-icon">
+                            <span class="@item.Icon2"></span>
+                            <p class="counter">@item.Count2</p>
+                    </div>
+                    <div class="stat-icon-des text-left">
+                        <h3 class="title-w3l">
+                                @item.Title2
+                        </h3>
+                        <p class="para-stat">
+                                @item.Description2
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+}
+

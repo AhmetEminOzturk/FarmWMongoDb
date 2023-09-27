@@ -1,0 +1,23 @@
+﻿@model List<DisplayWelcomeBannerResponse>
+
+    @foreach (var item in Model)
+{
+    <section class="banner-19">
+    <div class="banner-layer">
+        <div class="main-content-top">
+            <div class="container">
+                <div class="main-content">
+                    <div class="w3lbanner-left">
+                        <h6>@item.Title1</h6>
+                            <h4>@item.Title2 </h4>
+                        <a href="about.html" class="btn btn-style btn-secondary mt-md-5 mt-4">Daha Fazla</a>
+                    </div>
+                    <div class="w3lbanner-right">
+                            <p>@item.Description</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+}

@@ -1,0 +1,461 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FarmWMongoDb.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FarmWMongoDb.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\about.html",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\about.html"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\css\\style-starter.css",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\css\\style-starter.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\a1.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\a1.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\a2.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\a2.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\a3.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\a3.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\a4.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\a4.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\a5.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\a5.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\a6.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\a6.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\a7.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\a7.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\a8.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\a8.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\down.png",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\down.png"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\fb.png",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\fb.png"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\ins.png",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\ins.png"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\media-img.png",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\media-img.png"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\team1.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\team1.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\team2.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\team3.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\team4.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\team4.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\team5.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\team5.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\team6.jpg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\team6.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\images\\tw.png",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\images\\tw.png"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\js\\circles.js",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\js\\circles.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\js\\theme-change.js",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\js\\theme-change.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\contact.html",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\contact.html"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\index.html",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\index.html"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\services.html",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\services.html"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\Agrowfarm-Starter\\starter-license-W3Layouts.txt",
+      "PackagePath": "staticwebassets\\Agrowfarm-Starter\\starter-license-W3Layouts.txt"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\GitHub\\FarmWMongoDb\\FarmWMongoDb.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FarmWMongoDb.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FarmWMongoDb.WebUI.props",
+      "PackagePath": "build\\FarmWMongoDb.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FarmWMongoDb.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\FarmWMongoDb.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FarmWMongoDb.WebUI.props",
+      "PackagePath": "buildTransitive\\FarmWMongoDb.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
