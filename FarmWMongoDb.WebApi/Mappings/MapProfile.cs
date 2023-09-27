@@ -1,11 +1,18 @@
 ﻿using AutoMapper;
 using FarmWMongoDb.WebApi.Dtos.AboutUs.Requests;
+using FarmWMongoDb.WebApi.Dtos.AboutUs.Responses;
 using FarmWMongoDb.WebApi.Dtos.HomeService.Requests;
+using FarmWMongoDb.WebApi.Dtos.HomeService.Responses;
 using FarmWMongoDb.WebApi.Dtos.Statistic.Requests;
+using FarmWMongoDb.WebApi.Dtos.Statistic.Responses;
 using FarmWMongoDb.WebApi.Dtos.Testimonial.Requests;
+using FarmWMongoDb.WebApi.Dtos.Testimonial.Responses;
 using FarmWMongoDb.WebApi.Dtos.VideoBanner.Requests;
+using FarmWMongoDb.WebApi.Dtos.VideoBanner.Responses;
 using FarmWMongoDb.WebApi.Dtos.WelcomeBanner.Requests;
+using FarmWMongoDb.WebApi.Dtos.WelcomeBanner.Responses;
 using FarmWMongoDb.WebApi.Dtos.WhyUs.Requests;
+using FarmWMongoDb.WebApi.Dtos.WhyUs.Responses;
 using FarmWMongoDb.WebApi.Models;
 
 namespace FarmWMongoDb.WebApi.Mappings
@@ -29,6 +36,14 @@ namespace FarmWMongoDb.WebApi.Mappings
             CreateMap<VideoBanner, UpdateVideoBannerRequest>().ReverseMap();
             CreateMap<WelcomeBanner, UpdateWelcomeBannerRequest>().ReverseMap();
             CreateMap<WhyUs, UpdateWhyUsRequest>().ReverseMap();
+
+            CreateMap<AboutUs, DisplayAboutUsResponse>().ReverseMap();
+            CreateMap<HomeService, DisplayHomeServiceResponse>().ReverseMap();
+            CreateMap<Statistic, DisplayStatisticResponse>().ReverseMap();
+            CreateMap<Testimonial, DisplayTestimonialResponse>().ReverseMap();
+            CreateMap<VideoBanner, DisplayVideoBannerResponse>().ReverseMap();
+            CreateMap<WelcomeBanner, DisplayWelcomeBannerResponse>().ReverseMap();
+            CreateMap<WhyUs, DisplayWhyUsResponse>().ReverseMap();
         }
     }
 }

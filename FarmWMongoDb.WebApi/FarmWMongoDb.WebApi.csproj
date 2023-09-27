@@ -13,14 +13,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Dtos\AboutUs\Responses\" />
-    <Folder Include="Dtos\HomeService\Responses\" />
-    <Folder Include="Dtos\Statistic\Responses\" />
-    <Folder Include="Dtos\Testimonial\Responses\" />
-    <Folder Include="Dtos\VideoBanner\Responses\" />
-    <Folder Include="Dtos\WelcomeBanner\Responses\" />
-    <Folder Include="Dtos\WhyUs\Responses\" />
-  </ItemGroup>
-
 </Project>
